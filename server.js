@@ -10,7 +10,7 @@ const menu = [
   { id: 1, name: "Margherita Pizza", price: 350 },
   { id: 2, name: "Veg Burger", price: 200 },
   { id: 3, name: "Pasta Alfredo", price: 249 },
-  { id: 4, name: "French Fries", price: 99 }
+  { id: 4, name: "French Fries", price: 150 }
 ];
 
 // Serve static frontend
